@@ -27,6 +27,10 @@ h1, h2, h3, h4 {
   color : white;
 }
 
+h3{
+ text-decoration: underline;
+}
+
 li {
   color : white;
   font-size: large;
